@@ -13,10 +13,6 @@ namespace FormationCMSUmbraco9
     {
         private readonly IWebHostEnvironment _env;
         private readonly IConfiguration _config;
-        
-        
-        // Coucou
-
 
         /// <summary>
         /// Initializes a new instance of the <see cref="Startup" /> class.
